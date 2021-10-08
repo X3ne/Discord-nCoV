@@ -1,0 +1,76 @@
+{
+    "fr": {
+        "help": {
+            "ncov": "Donées du virus",
+            "invite": "Invite moi !",
+            "symptoms": "Liste des symptomes",
+            "lang": "Change la langue du bot", 
+            "lastdata": "Affiche les dernière données de contamination",
+            "patchlog": "Affiche le patchlog"
+        },
+        "invite": {
+            "title": "Invite moi"
+        },
+        "symptoms": {
+            "title": "Symptomes",
+            "s1": "Fièvre",
+            "s2": "Les symptômes de la grippe tels que la toux, le mal de gorge et les maux de tête",
+            "s3": "Difficultés respiratoires dans certains cas",
+            "s4": "Si vous présentez ces symptômes, restez chez vous et appelez le numéro d'urgence de votre pays."
+        },
+        "ncov": {
+            "confirmed": "Cas confirmés",
+            "suspicious": "Cas suspects",
+            "cured": "Cas guéris",
+            "death": "Morts",
+            "loading": "Chargement des données veuillez patienter...",
+            "serious": "Cas serieux",
+            "en": "en"
+        },
+        "patchlog": {
+            "graph": "Ajout graphique",
+            "api": "Bad gateway api fixé",
+            "lastdata": "Commande lastdata ajoutée"
+        },
+        "lastdata": {
+            "title": "(10 dernières données)"
+        }
+    },
+    "eng": {
+        "help": {
+            "ncov": "Virus data",
+            "invite": "Invite me !",
+            "symptoms": "List of symptoms",
+            "lang": "Change the language of the bot", 
+            "lastdata": "Get the latest contamination data",
+            "patchlog": "Patchlog list"
+        },
+        "invite": {
+            "title": "Invite me"
+        },
+        "symptoms": {
+            "title": "Symptoms",
+            "s1": "Fever",
+            "s2": " Flu like symptoms such as coughing, sore throat and headaches",
+            "s3": "Difficult breathing in some cases",
+            "s4": "If you have these symptoms, stay at home and call the emergency number in your country."
+        },
+        "ncov": {
+            "confirmed": "Confirmed cases",
+            "suspicious": "Suspicious cases",
+            "cured": "Cured cases",
+            "death": "Death",
+            "loading": "Loading data please wait...",
+            "serious": "Serious cases",
+            "en": "last"
+        },
+        "patchlog": {
+            "graph": "Add graphic",
+            "api": "Bad gateway api fixed",
+            "lastdata": "lastdata command added"
+        },
+        "lastdata": {
+            "title": "(Last 10 data)"
+        }
+    }
+}
